@@ -1,0 +1,3 @@
+C:/Users/dinha/CLionProjects/Estrutura-de-dados-exercicios/cmake-build-debug/CMakeFiles/Estrutura_de_dados_exercicios.dir
+C:/Users/dinha/CLionProjects/Estrutura-de-dados-exercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinha/CLionProjects/Estrutura-de-dados-exercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
